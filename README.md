@@ -70,3 +70,5 @@ I build immersive 3D experiences, AI-powered applications and scalable cloud sys
 ### 📫 Contact
 
 - 📧 felipe.garciar@upb.edu.co
+- 📧 felipegarciarpo@gmail.com
+- 📱 +57 305 334 34 62
