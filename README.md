@@ -1,17 +1,72 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">Ingeniero aeronáutico con un enfoque apasionado en el desarrollo de software</h3>
+<h3 align="center">Creative 3D Developer | Full Stack Engineer | DevOps Enthusiast</h3>
 
-- 🔭 I’m currently working on **Freelance Project**
-
-- 🌱 I’m currently learning **Python and React**
-
-- 💬 Ask me about **JavaScript, Postgre, Mongo DB**
-
-- 📫 How to reach me **felipe.garciar@upb.edu.co**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I build immersive 3D experiences, AI-powered applications and scalable cloud systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+- 🎯 Focused on **Creative 3D Development (Three.js, WebGL, GSAP, GLSL)**
+- 💻 Strong **Full Stack Developer (TypeScript for Frontend & Backend)**
+- 🧠 Building **AI-integrated applications**
+- ☁️ Experienced in **Cloud & DevOps (AWS + Kubernetes ecosystem)**
+- 🎨 Passionate about **interactive, immersive and visually rich experiences**
+
+---
+
+### 🌐 Portfolio
+
+👉 https://portafolioscifi-cggp.vercel.app
+
+---
+
+### 🧩 Frontend
+
+- **TypeScript, JavaScript (ES6+)**
+- **React, Next.js**
+- **Redux Toolkit, Zustand**
+- **shadcn/ui, TailwindCSS**
+- **Framer Motion, GSAP**
+- **Three.js, WebGL, GLSL**
+
+---
+
+### ⚙️ Backend
+
+- **Node.js**
+- **Express.js, NestJS**
+- **Convex**
+
+---
+
+### 🗄️ Databases & ORM
+
+- **PostgreSQL, MySQL, MongoDB, NeonDB**
+- **Prisma, TypeORM, Drizzle ORM, Sequelize**
+
+---
+
+### 🤖 AI Development
+
+- AI-powered applications
+- Integrations with modern AI APIs
+- Intelligent UX and automation systems
+
+---
+
+### ☁️ DevOps & Cloud
+
+- **AWS (EKS, EC2, VPC, Lambda, API Gateway, S3, Route 53)**
+- **Docker**
+- **Terraform**
+- **Kubernetes**
+- **Prometheus, Loki, Promtail**
+
+---
+
+### 📫 Contact
+
+- 📧 felipe.garciar@upb.edu.co
