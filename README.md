@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">Creative 3D Developer | Full Stack Engineer | DevOps Enthusiast</h3>
+<h3 align="center">Aeronautical Enginner | Full Stack Developer | DevOps Enginner</h3>
 
 <p align="center">
 I build immersive 3D experiences, AI-powered applications and scalable cloud systems.
